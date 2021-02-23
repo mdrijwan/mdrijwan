@@ -1,6 +1,8 @@
 ### Hey there! 
 
-Checkout the stacks I'm using. [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
+Checkout the stacks I'm using.
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
 
 <!--
 **mdrijwan/mdrijwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
