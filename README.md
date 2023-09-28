@@ -4,6 +4,9 @@ Checkout the stacks I'm using.
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
 
+![AWS Certified Solutions Architect - Associate (SAA)]([http://url/to/img.png](https://github.com/mdrijwan/mdrijwan/blob/main/aws-certified-solutions-architect-associate.png))
+
+
 <!--
 **mdrijwan/mdrijwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
