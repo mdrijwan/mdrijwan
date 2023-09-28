@@ -4,7 +4,7 @@ Checkout the stacks I'm using.
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
 
-![AWS Certified Solutions Architect - Associate (SAA)]([http://url/to/img.png](https://github.com/mdrijwan/mdrijwan/blob/main/aws-certified-solutions-architect-associate.png))
+![aws-certified-cloud-practitioner (1)](https://github.com/mdrijwan/mdrijwan/assets/22044931/c71fe37c-2f7d-49ab-a0d4-d901a8ee9434) ![aws-certified-solutions-architect-associate (1)](https://github.com/mdrijwan/mdrijwan/assets/22044931/fd8cfb25-fce9-4585-ace1-f120ea04ffb8)
 
 
 <!--
