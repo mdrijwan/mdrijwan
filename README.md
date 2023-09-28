@@ -1,8 +1,6 @@
-### Hey there! 
+### Hey there, I'm Rijwan!
 
-Checkout the stacks I'm using.
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
+Checkout the stacks I'm using. [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -10,6 +8,10 @@ Checkout the stacks I'm using.
 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+[![Linkedin: mdrijwan](https://img.shields.io/badge/-mdrijwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/mdrijwan/)
+[![GitHub mdrijwan](https://img.shields.io/github/followers/mdrijwan?label=follow&style=social)](https://github.com/mdrijwan)
+
 
 
 <!--
