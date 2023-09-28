@@ -25,7 +25,9 @@
 
 ![aws-certified-cloud-practitioner (1)](https://github.com/mdrijwan/mdrijwan/assets/22044931/c71fe37c-2f7d-49ab-a0d4-d901a8ee9434) ![aws-certified-solutions-architect-associate (1)](https://github.com/mdrijwan/mdrijwan/assets/22044931/fd8cfb25-fce9-4585-ace1-f120ea04ffb8) ![CEH_Badge](https://github.com/mdrijwan/mdrijwan/assets/22044931/c3246593-2704-43e9-84d4-f7a726f576f2) ![07_SQL_Associate__1_](https://github.com/mdrijwan/mdrijwan/assets/22044931/a3e45e75-e7ba-474a-b294-c43771da2e66)
 
-Checkout the stacks I'm using [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
+Checkout the stacks I'm using.
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
 
 ![Screenshot 2023-09-29 at 3 09 35 AM](https://github.com/mdrijwan/mdrijwan/assets/22044931/4027a13d-c00c-48bd-8655-e53b97fc4921)
 
