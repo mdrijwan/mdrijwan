@@ -23,9 +23,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
-![aws-certified-cloud-practitioner (1)](https://github.com/mdrijwan/mdrijwan/assets/22044931/c71fe37c-2f7d-49ab-a0d4-d901a8ee9434) ![aws-certified-solutions-architect-associate (1)](https://github.com/mdrijwan/mdrijwan/assets/22044931/fd8cfb25-fce9-4585-ace1-f120ea04ffb8)
-
-
+![aws-certified-cloud-practitioner (1)](https://github.com/mdrijwan/mdrijwan/assets/22044931/c71fe37c-2f7d-49ab-a0d4-d901a8ee9434) ![aws-certified-solutions-architect-associate (1)](https://github.com/mdrijwan/mdrijwan/assets/22044931/fd8cfb25-fce9-4585-ace1-f120ea04ffb8) ![CEH_Badge](https://github.com/mdrijwan/mdrijwan/assets/22044931/c3246593-2704-43e9-84d4-f7a726f576f2) ![07_SQL_Associate__1_](https://github.com/mdrijwan/mdrijwan/assets/22044931/a3e45e75-e7ba-474a-b294-c43771da2e66)
 
 Checkout the stacks I'm using [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mdrijwan/rrstack)
 
@@ -36,6 +34,7 @@ Checkout the stacks I'm using [![StackShare](http://img.shields.io/badge/tech-st
 ![Screenshot 2023-09-29 at 3 12 14 AM](https://github.com/mdrijwan/mdrijwan/assets/22044931/6058405b-4427-4200-a5c7-c3f3ff43ca50)
 
 ![Screenshot 2023-09-29 at 3 12 34 AM](https://github.com/mdrijwan/mdrijwan/assets/22044931/d4578fd2-0d92-4ff5-9c91-f72708036311)
+
 
 
 
